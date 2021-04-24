@@ -1,0 +1,2 @@
+word = 'banana'
+dir(word)
